@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{%from "components/card.html" import card%}
+{%from "components/card1.html" import card1%}
+
+
+{% block title %}SignASL{% endblock %}
+
+{% block content %}
+   {{card()}}
+   {{card1()}}
+   
+{% endblock %}
