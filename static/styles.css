@@ -1,0 +1,42 @@
+
+
+div{
+    background-color: #EFE4B0;
+    background-attachment: fixed;  
+}
+
+/* body{
+    background-image: url('/static/images/background.jpg');
+    background-size: cover;  
+} */
+
+body{
+    background-image: url('/static/images/background.jpg');
+    background-attachment: fixed;   
+}
+
+
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0F0F0F;
+}
+
+
+p{
+    font-size: 17.5px; 
+    margin-top: 20px;
+}
+
+
+.btn{
+    background-color:#EFE4B0;
+    box-shadow: 0 2px 3px black ;
+    letter-spacing: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn:hover{
+    background-color: #f2c26f;
+}
+
