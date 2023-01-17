@@ -4,13 +4,13 @@ Creating a Sign language repo to convert sign into text and audio.
 ## Index
 
 1. [Intro](#intro)
-     * [Why American Sign Language?](#why american sign language?)
+     * [Why American Sign Language?](#whyamericansignlanguage?)
 
 # Intro
 
 ## Why American Sign Language?
 
-For millennia, deaf people were neither considered humans nor were they treated with respect. Nobody even tried to communicate with them. But this injustice against them started coming to an end in the Renaissance, when people understood that deaf people were also capable of language. `<b>The person who played a big role in this transformation Charles-Michel de l'Épée, a French priest and philanthropist, who is now hailed as the Father of the deaf.</b>`
+For millennia, deaf people were neither considered humans nor were they treated with respect. Nobody even tried to communicate with them. But this injustice against them started coming to an end in the Renaissance, when people understood that deaf people were also capable of language. <b>`The person who played a big role in this transformation Charles-Michel de l'Épée, a French priest and philanthropist, who is now hailed as the Father of the deaf.`</b>
              
 In the 1700s, Charles-Michel de l'Épée had a chance encounter with two young deaf sisters who were communicating with sign language. This inspired him to dedicate his life for the deaf. Soon, he developed a system of instruction of the French language and religion using the sign language and founded the world's first free school for the deaf.
  
