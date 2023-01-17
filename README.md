@@ -3,7 +3,7 @@ Creating a Sign language repo to convert sign into text and audio.
 
 ## Index
 
-1. [Intro] (#intro)
+1. Intro (#intro)
      * Why American Sign Language?
 
 # Intro
