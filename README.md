@@ -27,3 +27,9 @@ Gallaudet taught Clerc English. Together, they established the first school for 
 
 Want to make friends with those who can only use sign language? Or are you a sign language user who wants to make friends with those who speak English? Either way, Signa can be a great companion who can help you reach your goal faster. After all, everyone deserves to make friends despite the abilities they are born with. 
 And Signa is your key to doing that.
+
+Signa can help break your boundaries, broaden your horizon, and make friends. Now you can talk with people just by using ASL. It will start translating your actions into words, and at the same time, the translated text will be spoken out using an AI voice so that your friend can easily understand you. 
+
+# Workflow
+
+
