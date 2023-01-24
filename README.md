@@ -36,5 +36,5 @@ Signa can help break your boundaries, broaden your horizon, and make friends. No
 
 # Usage
 
-## Installing library
+## Installing libraries
 
