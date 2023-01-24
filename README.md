@@ -9,7 +9,8 @@ Creating a Sign language repo to convert sign into text and audio.
 2. [Workflow](#workflow)
 3. [Usage](#usage)
       * [Installing libraries](#installinglibraries)
-      * [savingdata 
+      * [Saving data](#savingdata)
+      *  
 
 # Intro
 
@@ -38,4 +39,7 @@ Signa can help break your boundaries, broaden your horizon, and make friends. No
 NB: I'm using Windows 10.
 
 ## Installing libraries
+
+I suggest creating a virtual environment and installing the libraries there.
+
 
