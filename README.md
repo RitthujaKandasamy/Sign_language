@@ -32,4 +32,5 @@ Signa can help break your boundaries, broaden your horizon, and make friends. No
 
 # Workflow
 
+![design](https://user-images.githubusercontent.com/99767517/214328113-27cb8464-5776-4ca8-8633-35fedecdf53e.gif)
 
