@@ -47,5 +47,8 @@ I suggest creating a virtual environment and installing the libraries there.
        your_virtual_env_name\code\strive.bat
        pip install -r requirement.txt
 
+## Saving data
+
+Run 
 
 
