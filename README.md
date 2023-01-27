@@ -42,4 +42,7 @@ NB: I'm using Windows 10.
 
 I suggest creating a virtual environment and installing the libraries there.
 
+nunpy
+
+
 
