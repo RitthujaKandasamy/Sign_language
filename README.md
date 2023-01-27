@@ -42,7 +42,8 @@ NB: I'm using Windows 10.
 
 I suggest creating a virtual environment and installing the libraries there.
 
-nunpy
+       cd sign_language_folder
+       python -m venv your_virtual_env_name
 
 
 
