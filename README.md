@@ -49,6 +49,6 @@ I suggest creating a virtual environment and installing the libraries there.
 
 ## Saving data
 
-Run <b> app.py </b>
+Run <b> ´´app.py ´´</b>
 
 
