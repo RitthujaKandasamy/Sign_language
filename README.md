@@ -51,4 +51,4 @@ I suggest creating a virtual environment and installing the libraries there.
 
 Run `app.py`
 
-When the webcam vieo has loaded, press 'a' on the keyboard
+When the webcam vieo has loaded, press 'a' on the keyboard to activate the logging mode. By pressing '0' to '9' data get saved in `keypoint.csv`
