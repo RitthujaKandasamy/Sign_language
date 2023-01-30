@@ -57,4 +57,4 @@ If you change the number of classes, make sure to correspondingly update the var
 
 ## Training
 
-For training the model, simply run the entire file 
+For training the model, simply run the entire file `train.ipynb`. If you change data, you'll probably need to experiment to obtain an acceptable model#s performance.
