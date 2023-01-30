@@ -57,4 +57,8 @@ If you change the number of classes, make sure to correspondingly update the var
 
 ## Training
 
-For training the model, simply run the entire file `train.ipynb`. If you change data, you'll probably need to experiment to obtain an acceptable model#s performance.
+For training the model, simply run the entire file `train.ipynb`. If you change data, you'll probably need to experiment to obtain an acceptable model#s performance. In case you change the model architecture, make sure to correspondingly update the `model_architecture.py`.
+
+## Running the web app
+
+
