@@ -1,5 +1,4 @@
 # Sign Language
-Creating a Sign language repo to convert sign into text and audio.
 
 ## Index
 
