@@ -11,6 +11,9 @@ Creating a Sign language repo to convert sign into text and audio.
       * [Installing libraries](#installinglibraries)
       * [Saving data](#savingdata)
       * [Training](#traning)
+      * [Running the web app](#runningthewebapp)
+ 4. [Limitations](#limitations)
+ 5. [References](#references)
       
 
 # Intro
