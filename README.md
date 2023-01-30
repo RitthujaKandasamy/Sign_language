@@ -56,3 +56,5 @@ When the webcam vieo has loaded, press 'a' on the keyboard to activate the loggi
 If you change the number of classes, make sure to correspondingly update the variable `n_classes` in `model_architecture.py` file.
 
 ## Training
+
+For training the model, simply run the entire file 
