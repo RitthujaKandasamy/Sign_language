@@ -65,5 +65,7 @@ For training the model, simply run the entire file `train.ipynb`. If you change 
 
       cd flask_app
       python app.py
+      
+You'll be provided with a link where the app is running. In the image below, it's running for example at http://127.0.0.1:5000.
   
   
