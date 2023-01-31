@@ -54,8 +54,11 @@ I suggest creating a virtual environment and installing the libraries there.
 
 Run `app.py`
 
-When the webcam vieo has loaded, press 'a' on the keyboard to activate the logging mode. By pressing '0' to '9' data get saved in `keypoint.csv`; whereby the first column represents the class labels (pressed keys) and the other columns are the normalized keypoints an distances. To save class labels extending from '10' to potentially '35', you can press alphabet keys (capital letters) from 'A' to 'Z', respectively.
+When the webcam vieo has loaded, press 'a' on the keyboard to activate the logging mode. By pressing '0' to '9' data get saved in `keypoint.csv`; whereby the first column represents the class labels (pressed keys) and the other columns are the normalized keypoints an distances (SEE EXAMPLE BELOW). To save class labels extending from '10' to potentially '35', you can press alphabet keys (capital letters) from 'A' to 'Z', respectively.
 If you change the number of classes, make sure to correspondingly update the variable `n_classes` in `model_architecture.py` file.
+
+![Screenshot 2023-01-31 125737](https://user-images.githubusercontent.com/99767517/215753723-24fa7d19-af30-41e0-9438-c3a97ba06ff8.png)
+
 
 ## Training
 
