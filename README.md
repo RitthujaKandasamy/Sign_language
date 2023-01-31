@@ -63,4 +63,7 @@ For training the model, simply run the entire file `train.ipynb`. If you change 
 
 ## Running the web app
 
-
+  cd flask_app
+  python app.py
+  
+  
