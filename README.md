@@ -68,9 +68,7 @@ For training the model, simply run the entire file `train.ipynb`. If you change 
       
 You'll be provided with a link where the app is running. In the image below, it's running for example at `http://127.0.0.1:5000`.
 
-  * Running on http://127.0.0.1:5000
- Press CTRL+C to quit
-  * Restarting with stat
-  * D
   
+  ![Screenshot 2023-01-31 125549](https://user-images.githubusercontent.com/99767517/215753419-5156f5a5-0de8-421e-bc84-a1a0503594ac.png)
+
   
