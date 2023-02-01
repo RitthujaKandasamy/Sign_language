@@ -1,10 +1,9 @@
-# Sign Language
-<img align='right' src="![logo](https://user-images.githubusercontent.com/99767517/216129550-7418b8dc-4a5c-407b-a233-3ce7da45bff3.png)" width="230">      
+# Signa
 
-# Intro
+Signa can help break your boundaries, broaden your horizon, and make friends. Now you can talk with people just by using ASL. It will start translating your actions into words, and at the same time, the translated text will be spoken out using an AI voice so that your friend can easily understand you. 
 
 <details>
-      <summary><b><h2>Why American Sign Language?</h2></b></summary>
+      <summary><b><h3>Why American Sign Language?</h3></b></summary>
 
     
 ## Why American Sign Language?
@@ -24,14 +23,13 @@ Gallaudet taught Clerc English. Together, they established the first school for 
 </details>
 
 <details>
-    <summary><b><h2>What can Signa do for you?</h2></b></summary>
+    <summary><b><h3>What can Signa do for you?</h3></b></summary>
 
 ## What can Signa do for you?
 
 Want to make friends with those who can only use sign language? Or are you a sign language user who wants to make friends with those who speak English? Either way, Signa can be a great companion who can help you reach your goal faster. After all, everyone deserves to make friends despite the abilities they are born with. 
 And Signa is your key to doing that.
 
-Signa can help break your boundaries, broaden your horizon, and make friends. Now you can talk with people just by using ASL. It will start translating your actions into words, and at the same time, the translated text will be spoken out using an AI voice so that your friend can easily understand you. 
     
 </details>
 
