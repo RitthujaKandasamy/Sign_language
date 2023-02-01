@@ -33,11 +33,11 @@ And Signa is your key to doing that.
     
 </details>
 
-# Workflow
+# 💡Workflow
 
 ![design](https://user-images.githubusercontent.com/99767517/214328113-27cb8464-5776-4ca8-8633-35fedecdf53e.gif)
 
-# Usage
+# 💻 Usage
 NB: I'm using Windows 10.
 
 ## Installing libraries
