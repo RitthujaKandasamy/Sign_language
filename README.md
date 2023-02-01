@@ -31,7 +31,7 @@ the deaf, met Clerc. Gallaudet invited Clerc to come to the USA. Once they arriv
 Gallaudet taught Clerc English. Together, they established the first school for the deaf Connecticut in the USA, where it stands even today (Source: <a href ="https://www.hearinglikeme.com/sign-languages-around-the-world/#:~:text=American%20Sign%20Language%20(ASL)%20is,Thomas%20Gallaudet%20and%20Laurent%20Clerc." target="_blank">www.hearinglikeme.com</a>). This is how ASL came into existence. Today, ASL is the widely used sign language across the world, with signers in the USA, Canada, Mexico, Africa, and Asia (Source: <a href = "https://www.amazon.com/American-Sign-Language-Workbook-Vocabulary/dp/1646119509" target="_blank">American Sign Language Workbook</a>). That's why I chose ASL - To help as much as many people as possible. 
 
 <details>
-<summary><b>What can Signa do for you?</b></summary>
+<summary><b>##What can Signa do for you?</b></summary>
 
 ## What can Signa do for you?
 
