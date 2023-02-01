@@ -74,7 +74,7 @@ You'll be provided with a link where the app is running. In the image below, it'
   
   ![Screenshot 2023-01-31 125549](https://user-images.githubusercontent.com/99767517/215753419-5156f5a5-0de8-421e-bc84-a1a0503594ac.png)
   
-Go to that url, then you can see a breif about Signa, Sign language and American Sign Language. After that at the topic of <i>What can Signa do for you?</i><br>  under that topic click below you will direct to another page after following the instruction given in that page you will directed to the Webcam. 
+Go to that url, then you can see a breif about Signa, Sign language and American Sign Language. After that at the topic of <i>What can Signa do for you?</i> under that topic click below you will direct to another page after following the instruction given in that page you will directed to the Webcam. 
 
        To start the action you need to follow the instruction given below:
                    
