@@ -1,4 +1,4 @@
-<h1 align="center">  Signa 👋</h1>
+<h1 align="center">  Signa 👫</h1>
 
 <p align="center">
 Signa can help break your boundaries, broaden your horizon, and make friends. Now you can talk with people just by using ASL. It will start translating your actions into words, and at the same time, the translated text will be spoken out using an AI voice so that your friend can easily understand you. 
