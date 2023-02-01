@@ -74,7 +74,7 @@ You'll be provided with a link where the app is running. In the image below, it'
   
   ![Screenshot 2023-01-31 125549](https://user-images.githubusercontent.com/99767517/215753419-5156f5a5-0de8-421e-bc84-a1a0503594ac.png)
   
-Go to that url, then you can see a breif about Signa, Sign language and American Sign Language. After that at the topic of What can Signa do for you? under that topic click below you will direct to another page after following the instruction given in that page you will directed to the Webcam. 
+Go to that url, then you can see a breif about Signa, Sign language and American Sign Language. After that at the topic of <i>What can Signa do for you?</i><br>  under that topic click below you will direct to another page after following the instruction given in that page you will directed to the Webcam. 
 
        To start the action you need to follow the instruction given below:
                    
@@ -82,9 +82,8 @@ Go to that url, then you can see a breif about Signa, Sign language and American
                    * To convert the action into text (press 'r')
                    * To delete the stored information (press 'd')
   
- Full demonstration about this app is given in the link below 😃
- <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+ Full demonstration about this app is given in the link ↓ 😃
+
 
   https://www.youtubetrimmer.com/view/?v=r1NlKqTegO8&start=1316&end=1526&loop=0
   
