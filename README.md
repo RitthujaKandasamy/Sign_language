@@ -11,8 +11,7 @@
       * [Saving data](#savingdata)
       * [Training](#traning)
       * [Running the web app](#runningthewebapp)
- 4. [Guidlines](#guidlines)
- 5. [References](#references)
+ 
       
 
 # Intro
@@ -86,3 +85,5 @@ Go to that url, then you can see a breif about Signa, Sign language and American
  Full demonstration about this app is given in the link below 
 
   https://www.youtubetrimmer.com/view/?v=r1NlKqTegO8&start=1316&end=1526&loop=0
+  
+  The list of the implemented interactions are stored in `label.`
