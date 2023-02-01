@@ -74,5 +74,7 @@ You'll be provided with a link where the app is running. In the image below, it'
 
   
   ![Screenshot 2023-01-31 125549](https://user-images.githubusercontent.com/99767517/215753419-5156f5a5-0de8-421e-bc84-a1a0503594ac.png)
+  
+  
 
   https://www.youtubetrimmer.com/view/?v=r1NlKqTegO8&start=1316&end=1526&loop=0
