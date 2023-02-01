@@ -82,8 +82,10 @@ Go to that url, then you can see a breif about Signa, Sign language and American
                    * To convert the action into text (press 'r')
                    * To delete the stored information (press 'd')
   
- Full demonstration about this app is given in the link below 
+ Full demonstration about this app is given in the link below 😃
 
   https://www.youtubetrimmer.com/view/?v=r1NlKqTegO8&start=1316&end=1526&loop=0
   
-  The list of the implemented interactions are stored in `label.`
+  The list of the implemented interactions are stored in `label.csv`.
+  
+  
