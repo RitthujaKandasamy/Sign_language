@@ -83,6 +83,8 @@ Go to that url, then you can see a breif about Signa, Sign language and American
                    * To delete the stored information (press 'd')
   
  Full demonstration about this app is given in the link below 😃
+ <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
   https://www.youtubetrimmer.com/view/?v=r1NlKqTegO8&start=1316&end=1526&loop=0
   
