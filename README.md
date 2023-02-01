@@ -1,10 +1,11 @@
 # Sign Language
-      
+<img align='right' src="![logo](https://user-images.githubusercontent.com/99767517/216129550-7418b8dc-4a5c-407b-a233-3ce7da45bff3.png)" width="230">      
 
 # Intro
 
 <details>
-    <summary><b><h2>Why American Sign Language?</h2></b></summary>
+      <summary><b><h2>Why American Sign Language?</h2></b></summary>
+
     
 ## Why American Sign Language?
 
