@@ -86,6 +86,6 @@ Go to that url, then you can see a breif about Signa, Sign language and American
   
   The list of the implemented interactions are stored in `label.csv`.
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😃 All feedback about this project are welcome.
   
   
